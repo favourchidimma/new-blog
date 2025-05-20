@@ -1,1 +1,1 @@
-web: gunicorn config.wgsi
+web: gunicorn myproject.wgsi
